@@ -24,8 +24,7 @@ TECHNICAL DETAILS :
 To build the UniTrade platform, we will use a combination of technologies and
 programming languages to ensure optimal performance and user experience. We
 plan to use a server-side scripting language such as PHP, along with a database
-management system such as MySQL, to build the backend of the website. hopefuuly
-if we can complete it on time if not only the front web will be submit by us.
+management system such as MySQL, to build the backend of the website.
 For the frontend of the website, we will use modern web development technologies
 such as HTML5, CSS3, and JavaScript to create a responsive and interactive user
 interface. To ensure the website is optimised for mobile devices, we will use a
